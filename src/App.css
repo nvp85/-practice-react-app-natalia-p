@@ -1,0 +1,20 @@
+#root {
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  border-radius: 2rem;
+  border: 0.01rem solid black;
+  width: 15rem;
+  padding: 0.5rem;
+  background-color: white;
+}
+
+#card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  padding: 0;
+}
