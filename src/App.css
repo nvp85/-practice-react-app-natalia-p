@@ -10,6 +10,7 @@
   height: fit-content;
   padding: 0.5rem;
   background-color: white;
+  height: 100%;
 }
 
 #card-container {
